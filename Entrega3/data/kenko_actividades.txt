@@ -1,0 +1,8 @@
+pruebas_generales;gerencia;Sebastian_grillo;27;true
+NewParchiiis;administrativo;Juan_David;67;false
+Actualizar_datos;administrativo;Sebastian_grillo;0;false
+NewParchiiis;administrativo;Juan_David;6;false
+No se que mas;administrativo;Invitado;68;false
+Sacarme de latinoamerica;administrativa;Invitado;0;false
+Integracion Al grupo;gerencia;Sebastian_grillo;76;false
+Hacer mas actualizaciones;Administracion;Juan_David;0;false

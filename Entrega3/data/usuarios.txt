@@ -1,0 +1,5 @@
+Sebastian_grillo;grillo@gmail.com;123;1:true,kenko:true
+Juan_David;David@gmail.com;123;kenko:true
+Monitor;monito@gmail.com;123
+Invitado;invitado@gmail.com;123
+juan;estabna;juan;juan:true
